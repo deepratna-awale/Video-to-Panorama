@@ -3,25 +3,31 @@ This algorithm runs through a video file, or a set of images, and stitches them 
 used for scanning in large documents where the resolution from a single photo may not be sufficient. 
 
 ## In Progress
-Fix Image Blurring
-Evaluating frame Quality
-Lens Distortion
+> Fix Image Blurring
+
+> Evaluating frame Quality
+
+> Lens Distortion
 
 ## Quick Start
 Clone > Get Requirements > Run!
 
 ## Requirements
-numpy
-opencv-python>=4.5
-opencv-contrib-python>=4.5
-yapf
-pylint
+* numpy
+
+* opencv-python>=4.5
+
+* opencv-contrib-python>=4.5
+
+* yapf
+
+* pylint
 
 ```bash
 # Clone the repo
-git clone https://github.com/deepratnaawale/You-Are-Flat-Now && cd ImageStitching
+git clone https://github.com/deepratnaawale/Video-to-Panorama/ && cd ImageStitching
 
-# install deps
+# Install dependencies
 pip install -r requirements.txt
 
 # Run the stitching!
