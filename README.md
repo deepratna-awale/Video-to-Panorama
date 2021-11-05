@@ -4,10 +4,9 @@ used for scanning in large documents where the resolution from a single photo ma
 
 ## In Progress
 > Fix Image Blurring
-
 > Evaluating frame Quality
-
 > Lens Distortion
+> Extract images according to FPS
 
 ## Quick Start
 Clone > Get Requirements > Run!
