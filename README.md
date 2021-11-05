@@ -19,9 +19,9 @@ pylint
 
 ```bash
 # Clone the repo
-git clone https://github.com/deepratnaawale/You-Are-Flat-Now && cd ImageStitching
+git clone https://github.com/deepratnaawale/Video-to-Panorama/ && cd ImageStitching
 
-# install deps
+# Install dependencies
 pip install -r requirements.txt
 
 # Run the stitching!
