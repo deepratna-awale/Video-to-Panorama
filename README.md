@@ -25,7 +25,7 @@ Clone > Get Requirements > Run!
 
 ```bash
 # Clone the repo
-git clone https://github.com/deepratnaawale/Video-to-Panorama/ && cd ImageStitching
+git clone https://github.com/deepratnaawale/Video-to-Panorama/ && cd image_stitching
 
 # Install dependencies
 pip install -r requirements.txt
@@ -33,9 +33,6 @@ pip install -r requirements.txt
 # Run the stitching!
 python main.py <path to image directory or video files> --display --save
 ```
-
-## Demonstration
-Coming soon!
 
 ## References
 [Automatic Panoramic Image Stitching using Invariant Features](https://www.cs.bath.ac.uk/brown/papers/ijcv2007.pdf)
