@@ -3,9 +3,11 @@ This algorithm runs through a video file, or a set of images, and stitches them 
 used for scanning in large documents where the resolution from a single photo may not be sufficient. 
 
 ## In Progress
-Fix Image Blurring
-Evaluating frame Quality
-Lens Distortion
+> Fix Image Blurring
+
+> Evaluating frame Quality
+
+> Lens Distortion
 
 ## Quick Start
 Clone > Get Requirements > Run!
