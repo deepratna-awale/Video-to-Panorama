@@ -11,15 +11,15 @@ Lens Distortion
 Clone > Get Requirements > Run!
 
 ## Requirements
-. numpy
+* numpy
 
-. opencv-python>=4.5
+* opencv-python>=4.5
 
-. opencv-contrib-python>=4.5
+* opencv-contrib-python>=4.5
 
-. yapf
+* yapf
 
-. pylint
+* pylint
 
 ```bash
 # Clone the repo
