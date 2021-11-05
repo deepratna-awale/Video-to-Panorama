@@ -25,7 +25,7 @@ git clone https://github.com/deepratnaawale/You-Are-Flat-Now && cd ImageStitchin
 pip install -r requirements.txt
 
 # Run the stitching!
-python stitching.py <path to image directory or video files> --display --save
+python main.py <path to image directory or video files> --display --save
 ```
 
 ## Demonstration

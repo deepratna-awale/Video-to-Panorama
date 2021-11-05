@@ -24,7 +24,7 @@ def parse_args():
     parser.add_argument('--debug', action='store_true', help='enable debug logging')
     parser.add_argument('--display', action='store_true', help="display result")
     parser.add_argument('--save', action='store_true', help="save result to file")
-    parser.add_argument("--save-path", default="output.png", type=str, help="path to save result")
+    parser.add_argument("--save-path", default="Output/output.png", type=str, help="path to save result")
 
     return parser.parse_args()
 
@@ -33,7 +33,7 @@ if __name__ == '__main__':
     args = parse_args()
     level = logging.DEBUG if args.debug else logging.INFO
     logging.basicConfig(level=level)
-    temp_dir_path = os.getcwd()+"/tmp"
+    temp_dir_path = os.getcwd()+"\Output\tmp"
     print("Temp Dir: " + str(temp_dir_path))
 
     stitcher = ImageStitcher()
