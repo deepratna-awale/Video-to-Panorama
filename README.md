@@ -37,4 +37,4 @@ python main.py <path to image directory or video files> --display --save
 [Demo on Youtube](https://youtu.be/DxBgM8vc6R8)
 
 ## References
-[Automatic Panoramic Image Stitching using Invariant Features](https://www.cs.bath.ac.uk/brown/papers/ijcv2007.pdf)
+[Automatic Panoramic Image Stitching using Invariant Features](http://matthewalunbrown.com/papers/ijcv2007.pdf)
